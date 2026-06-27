@@ -1,20 +1,3 @@
-# 🚀 Quick Setup Instructions
-
-1. Create a **public repository** named exactly:
-
-```text
-Bindu-Burla
-```
-
-2. Replace the generated `README.md` with the code below.
-
-3. Replace the placeholder links (if needed):
-
-* Portfolio → when you create one
-* Coding profile links → when you create them
-
----
-
 # README.md
 
 ````markdown
