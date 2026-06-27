@@ -295,10 +295,9 @@ Built a responsive and interactive website allowing users to browse and place ic
 
 # 🐍 Contribution Snake
 
-```yaml
-Enable after creating:
-.github/workflows/snake.yml
-````
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bindu-Burla/Bindu-Burla/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
