@@ -1,6 +1,3 @@
-# README.md
-
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,50:6A0DAD,100:8A2BE2&text=Bindu%20Burla&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn"/>
@@ -357,4 +354,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,50:6A0DAD,100:8A2BE2"/>
 
 </div>
-```
