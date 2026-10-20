@@ -1,355 +1,190 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4B0082,50:6A0DAD,100:8A2BE2&text=Bindu%20Burla&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn"/>
+# Hi 👋, I'm Bindu Burla
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&lines=Software+Engineer;AI+%26+Data+Analytics+Enthusiast;Full+Stack+Developer;Researcher+%26+Open+Source+Learner;Building+Scalable+Digital+Solutions"/>
+### Data Analyst | SQL • Excel • Power BI • Python
 
-<br>
-
-<img src="https://img.shields.io/badge/B.Tech-ECE-6A0DAD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CGPA-8.94-7B1FA2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI-Data%20Analytics-512DA8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/IEEE-Award%20Winner-5E35B1?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/📍%20Chirala,%20Andhra%20Pradesh,%20India-6A0DAD?style=for-the-badge"/>
-
-<br><br>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-6A0DAD?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+**Turning raw data into meaningful business insights**
 
 <a href="https://www.linkedin.com/in/bindu-burla">
-<img src="https://img.shields.io/badge/LinkedIn-Bindu%20Burla-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Bindu%20Burla-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:burlabindu25@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Bindu-Burla">
-<img src="https://img.shields.io/badge/GitHub-Bindu--Burla-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Bindu-Burla&label=Profile%20Views&color=6A0DAD&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/Bindu-Burla?style=for-the-badge&color=6A0DAD"/>
-
-<img src="https://img.shields.io/github/stars/Bindu-Burla?style=for-the-badge&color=6A0DAD"/>
+<img src="https://komarev.com/ghpvc/?username=Bindu-Burla&label=Profile%20Views&style=flat-square"/>
 
 </div>
 
 ---
 
-# 💫 About Me
+## 👩‍💻 About Me
 
-Software Engineer and AI-Driven Data Analytics enthusiast with a strong foundation in **Python, Data Analytics, Machine Learning, Full Stack Development, and Product Engineering**.
+I'm a **2026 ECE graduate with a CGPA of 8.94/10**, focused on turning data into clear, actionable business insights.
 
-I enjoy transforming data into meaningful insights and building scalable software solutions that create real-world impact.
+My core analytics toolkit includes **SQL, Excel, Power BI, and Python**, with hands-on experience in data cleaning, exploratory data analysis, KPI tracking, dashboard development, reporting, and data visualization.
 
-🔹 AI & Machine Learning Enthusiast  
-🔹 Data Analytics & Business Intelligence  
-🔹 Full Stack Development  
-🔹 Product Engineering Mindset  
-🔹 Open Source Learner & Contributor  
+I enjoy working with real-world datasets to uncover trends, answer business questions, and communicate findings through clear dashboards and reports.
 
-### Open To
-- Software Engineer Roles
-- Data Analyst Roles
-- AI/ML Engineer Roles
-- Full Stack Developer Roles
-- Graduate Engineering Programs
-- Open Source Collaborations
+- 📊 Building end-to-end Data Analytics & Business Intelligence projects
+- 🔎 Interested in customer, revenue, sales, and operational analytics
+- 💼 Former AI-Driven Data Analytics Intern at DataValley
+- 🏆 Co-authored IEEE research presented at ICIEECE-2025
+- 🎯 Seeking entry-level **Data Analyst, BI Analyst, Reporting Analyst, and MIS** opportunities
+- 📍 Open to opportunities across India
 
 ---
 
-# ⚡ Tech Stack
+## 🛠️ Analytics Toolkit
 
-### Languages
+### Data Analysis & BI
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,js,html,css,sql"/>
-</p>
+`SQL` `Microsoft Excel` `Power BI` `Python` `SQLite`
 
-### Frontend
+### Data Preparation & Visualization
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,js"/>
-</p>
+`Power Query` `DAX` `Pandas` `NumPy` `Data Cleaning` `EDA`
 
-### Backend & Databases
+### Reporting & Business Analysis
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql"/>
-</p>
+`Dashboard Development` `KPI Analysis` `Data Visualization` `Reporting`
 
-### Cloud, DevOps & Tooling
+### Additional Technical Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
-</p>
+`Git` `GitHub` `HTML` `CSS` `JavaScript` `React` `Node.js` `MongoDB`
 
 ---
 
-# 🤖 AI / ML Expertise
+# 🚀 Featured Analytics Projects
 
-| Domain | Proficiency | Details |
-|---------|-------------|----------|
-| Data Analytics | Advanced | Data cleaning, EDA, dashboards |
-| Machine Learning | Intermediate | Predictive analytics and classification |
-| Python for Data Science | Advanced | Pandas, NumPy, Scikit-learn |
-| Data Visualization | Intermediate | Power BI and reporting |
-| Business Intelligence | Intermediate | Data-driven insights |
-| AI Engineering | Intermediate | Intelligent systems development |
+## 🛒 End-to-End E-Commerce Data Analytics
 
----
+**Power BI | Power Query | DAX | Data Analysis**
 
-# 📚 Publications
+Analyzed e-commerce data to understand business performance across:
 
-| Title | Conference | Year |
-|-------|------------|------|
-| 6G-Enabled Semantic Communications for IoT: A Survey and Roadmap | 3rd International Conference on Innovations in Electrical, Electronics and Communication Engineering (ICIEECE-2025) | 2025 |
+- Sales and revenue
+- Customer behavior
+- Product performance
+- Customer experience
+- Delivery performance
+- Order risk
 
-**Authors:** B. Bindu, A. Lakshmi Sai, G. Yamuna Sri, D. Chinni and D. Sravani.
+Developed an interactive Power BI dashboard to transform raw data into actionable business insights.
+
+👉 **[View Project](https://github.com/Bindu-Burla/ecommerce-powerbi-analytics)**
 
 ---
 
-# 🚀 Featured Projects
+## 📦 Retail Supply Chain Analysis
 
-<details>
-<summary><b>Customer Churn Prediction</b></summary>
+**SQL | SQLite | Excel | PivotTables**
 
-| Attribute | Details |
-|-----------|----------|
-| Stack | Python, Pandas, Scikit-learn |
-| Scale | Customer Analytics |
-| Performance | Predictive Modeling |
-| Security | Data Preprocessing Pipeline |
-| Impact | Improved decision making |
-| Repository | Coming Soon |
+Analyzed retail sales and supply-chain data to identify patterns in:
 
-Developed a machine learning model to predict customer churn using historical customer datasets and feature engineering techniques.
+- Sales and profitability
+- Product and category performance
+- Discounting
+- Shipping performance
+- Customer and regional trends
 
-</details>
+Used SQL for analysis and Excel PivotTables, charts, dashboards, and KPI reporting to communicate findings.
 
-<details>
-<summary><b>Book a Doctor</b></summary>
-
-| Attribute | Details |
-|-----------|----------|
-| Stack | MERN Stack |
-| Scale | Multi-user Application |
-| Performance | Responsive UI |
-| Security | REST APIs |
-| Impact | Simplified appointment booking |
-| Repository | Coming Soon |
-
-Developed a full-stack healthcare platform allowing users to search doctors and book appointments online.
-
-</details>
-
-<details>
-<summary><b>Ice Cream Booking Website</b></summary>
-
-| Attribute | Details |
-|-----------|----------|
-| Stack | HTML, CSS, JavaScript |
-| Scale | Consumer Web Platform |
-| Performance | Mobile Responsive |
-| Security | Form Validation |
-| Impact | Improved online ordering |
-| Repository | Coming Soon |
-
-Built a responsive and interactive website allowing users to browse and place ice cream orders.
-
-</details>
+👉 **[View Project](https://github.com/Bindu-Burla/retail-supply-chain-sql-excel-analysis)**
 
 ---
 
-# 💼 Experience
+## 📊 Customer & Revenue Intelligence
 
-### AI-Driven Data Analytics Intern | Datavalley India Pvt. Ltd.
-**Dec 2025 – Mar 2026**
+**Data Analytics | Customer Analysis | Revenue Analysis**
 
-- Data cleaning and preprocessing
-- Machine learning model development
-- Dashboard creation and reporting
-- Documentation and reproducibility
+Building an end-to-end analytics project focused on:
 
-`Python` `Pandas` `NumPy` `Machine Learning`
+- Customer behavior
+- Revenue trends
+- Business KPIs
+- Customer segmentation
+- Performance insights
 
----
-
-### Full Stack Development Intern | SmartBridge
-**Sep 2025 – Nov 2025**
-
-- Developed responsive frontend interfaces
-- Built REST APIs
-- Git collaboration
-- Performance optimization
-
-`React` `Node.js` `Express.js` `MongoDB`
+🚧 **Currently in development**
 
 ---
 
-### Python Programming Intern | CodingMissions IT Solutions
-**May 2025 – Jul 2025**
+## 💼 Experience
 
-- Python scripting and automation
-- Problem solving and debugging
-- Data structures and file handling
+### AI-Driven Data Analytics Intern
+**DataValley Inc. | Dec 2025 – Mar 2026**
 
-`Python` `Automation` `Problem Solving`
+- Performed data cleaning, transformation, exploratory analysis, and reporting using SQL, Excel, Python, and Power BI
+- Used SQL to query, filter, aggregate, join, and analyze structured datasets
+- Applied Excel functions, PivotTables, charts, and data-cleaning techniques
+- Built Power BI dashboards and visualizations to monitor KPIs and trends
+- Applied an end-to-end analytics workflow from raw data preparation to insight generation
 
----
-
-# 🏆 Achievements
-
-| Recognition | Details |
-|-------------|----------|
-| 🥇 IEEE First Prize | Smart Irrigation System Presentation |
-| 📄 Technical Paper Presentation | ICIEECE-2025 |
-| 🎓 Academic Excellence | CGPA 8.94 |
-| 💼 Deloitte Job Simulation | Data Analytics |
+**Skills:** `SQL` `Excel` `Power BI` `Python` `Data Analysis`
 
 ---
 
-# 📜 Certifications
+## 🏆 Research & Achievements
 
-### OneRoadmap
-- English
-- Data Analyst – Big 4 Ready
+### IEEE Research
 
-### Forage
-- Deloitte Australia – Data Analytics Job Simulation
+**6G-Enabled Semantic Communications for IoT: A Survey and Roadmap**
 
-### freeCodeCamp
-- Responsive Web Design
+Presented at the **3rd International Conference on Innovations in Electrical, Electronics and Communication Engineering (ICIEECE-2025).**
 
-### CodeTantra
-- Database Management System
+🥇 **Awarded 1st Prize**
 
-### NPTEL
-- Cloud Computing
-- Joy of Computing using Python
+### Additional Highlights
+
+- 🎓 B.Tech ECE — **CGPA: 8.94/10**
+- 📊 Deloitte Australia — Data Analytics Job Simulation
+- 💻 Full Stack Development Internship — SmartBridge
+- 🐍 Python Programming Internship — CodingMissions IT Solutions
 
 ---
 
-# 💻 Coding Profiles
+## 📜 Certifications
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-FFA116?style=for-the-badge&logo=leetcode"/>
-
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coming%20Soon-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
-
-<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-00EA64?style=for-the-badge&logo=hackerrank"/>
-
-<img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge"/>
-
-</p>
+- **Data Analytics Essentials** — Cisco
+- **Data Analyst – Big 4 Ready** — OneRoadmap
+- **Data Analytics Job Simulation** — Deloitte Australia / Forage
+- **Microsoft Excel** — Simplilearn
+- **Responsive Web Design** — freeCodeCamp
+- **Database Management System** — CodeTantra
 
 ---
 
-# 📊 GitHub Analytics
+## 📈 GitHub Activity
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bindu-Burla&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Bindu-Burla&show_icons=true&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bindu-Burla&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bindu-Burla&layout=compact&hide_border=true"/>
 
-</p>
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bindu-Burla&layout=compact&theme=tokyonight"/>
-
-</p>
+</div>
 
 ---
 
-# 🏆 GitHub Trophies
+## 🤝 Let's Connect
 
-<p align="center">
+I'm currently exploring entry-level opportunities in **Data Analytics, Business Intelligence, MIS, and Reporting**.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Bindu-Burla&theme=algolia&no-frame=true&row=1&column=7"/>
+If you're working on data-driven problems or hiring for an analytics role, I'd be happy to connect.
 
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bindu-Burla&theme=react-dark"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Bindu-Burla/Bindu-Burla/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
-# 🎯 Current Focus
-
-```yaml
-Learning:
-  - Advanced Data Analytics
-  - Machine Learning
-  - System Design
-  - Cloud Computing
-
-Building:
-  - AI-Powered Analytics Projects
-  - Full Stack Applications
-
-Exploring:
-  - Data Engineering
-  - Generative AI
-
-Open To:
-  - Software Engineer Roles
-  - Data Analyst Roles
-  - AI Engineer Roles
-```
-
----
-
-# 🤝 Connect
-
-<p align="center">
-
-<a href="mailto:burlabindu25@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-burlabindu25%40gmail.com-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/bindu-burla">
-<img src="https://img.shields.io/badge/LinkedIn-Bindu%20Burla-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Bindu-Burla">
-<img src="https://img.shields.io/badge/GitHub-Bindu--Burla-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+📧 **Email:** burlabindu25@gmail.com  
+💼 **LinkedIn:** [linkedin.com/in/bindu-burla](https://www.linkedin.com/in/bindu-burla)  
+💻 **GitHub:** [github.com/Bindu-Burla](https://github.com/Bindu-Burla)
 
 ---
 
 <div align="center">
 
-### Engineering intelligent systems that transform ideas into impactful digital experiences.
+### SQL • Excel • Power BI • Python
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,50:6A0DAD,100:8A2BE2"/>
+**From raw data → analysis → insights → better decisions**
 
 </div>
