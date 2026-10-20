@@ -96,22 +96,6 @@ Used SQL for analysis and Excel PivotTables, charts, dashboards, and KPI reporti
 
 ---
 
-## 📊 Customer & Revenue Intelligence
-
-**Data Analytics | Customer Analysis | Revenue Analysis**
-
-Building an end-to-end analytics project focused on:
-
-- Customer behavior
-- Revenue trends
-- Business KPIs
-- Customer segmentation
-- Performance insights
-
-🚧 **Currently in development**
-
----
-
 ## 💼 Experience
 
 ### AI-Driven Data Analytics Intern
