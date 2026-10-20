@@ -13,7 +13,8 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ECE-'26-6A0DAD?style=flat-square"/>
+<img src="https://img.shields.io/badge/B.Tech%20ECE-2026%20Graduate-6A0DAD?style=flat-square"/>
+<img src="https://img.shields.io/badge/Minor-Computer%20Science%20%26%20Engineering-512DA8?style=flat-square"/>
 <img src="https://img.shields.io/badge/CGPA-8.94%2F10-7B1FA2?style=flat-square"/>
 <img src="https://img.shields.io/badge/IEEE-Research%20%26%20Award-512DA8?style=flat-square"/>
 
@@ -43,7 +44,7 @@
 
 # 💫 About Me
 
-I'm Bindu Burla, a 2026 B.Tech graduate in Electronics & Communication Engineering (ECE), with a Minor Degree in Computer Science & Engineering (CSE), focused on Data Analytics and Business Intelligence. I use SQL, Excel, Power BI, and Python to transform raw data into meaningful business insights.
+I'm **Bindu Burla**, a **2026 B.Tech graduate in Electronics & Communication Engineering (ECE)** with a **Minor Degree in Computer Science & Engineering (CSE)**, focused on **Data Analytics and Business Intelligence**. I use **SQL, Excel, Power BI, and Python** to transform raw data into meaningful business insights.
 
 I enjoy working through the complete analytics lifecycle — from **data cleaning and transformation to analysis, KPI development, visualization, dashboarding, and insight generation**.
 
@@ -288,8 +289,8 @@ Used **SQL for analysis** and **Excel PivotTables, charts, dashboards, and KPI r
 </tr>
 
 <tr>
-<td>🎓 <b>Academic Performance</b></td>
-<td>B.Tech ECE — CGPA 8.94/10</td>
+<td>🎓 <b>Education</b></td>
+<td>B.Tech in ECE (2026) · Minor Degree in CSE · CGPA 8.94/10</td>
 </tr>
 
 <tr>
